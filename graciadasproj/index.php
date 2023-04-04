@@ -20,8 +20,8 @@
 
 <div class="form-group">
   <label for="birthday">Date of Birth</label>
-  <input type="date" class="form-control"  id="birthday" name="birthday">
- </div>
+  <input type="text" id="datepicker">
+</div>
 <br>
  <p> Choose a Specialty </p>
 <div class="form-group form-check">
